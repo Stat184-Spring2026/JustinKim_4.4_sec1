@@ -27,6 +27,6 @@ Provide some information about what you intend to doe with the project. You can 
 Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
 
 
-## Authors
+## Author
 
-The author of this project is Justin Kim, an undergraduate student from Pennsylvania State University. To reach out, please using this email: (mailto:jlk6573@psu.edu)
+The author of this project is Justin Kim, an undergraduate student from Pennsylvania State University. To reach out, please using this email: [jlk6573@psu.edu](mailto:jlk6573@psu.edu)
