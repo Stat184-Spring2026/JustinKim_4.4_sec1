@@ -9,7 +9,7 @@ The purpose of this project is to relate how Quarto and R can be used together t
 ### Interesting Insight 
 
 One interesting insight from the project was from the busiest airport analysis, where not every airport remained in the top six busiest airports every year. For example, Seoul - Incheon International Airport started appearing in the data set in 2023, while Beijing Daxing International Airport didn't start appearing until 2020. 
-![Passenger Traffic at 6 Busiest Airports] (/images/airport_plot.png)
+![Passenger Traffic at 6 Busiest Airports](/images/airport_plot.png)
 
 ## Data Sources and Acknowledgements
 
