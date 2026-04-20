@@ -21,6 +21,8 @@ First, the data were tided and created into a clean looking table:
 #| message: false
 #| warning: false
 
+# This document follows the Tidyverse Style Guide.
+
 # Outcome of Data Table
 #Step 1: Load Packages.
 library(tidyverse)
